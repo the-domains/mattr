@@ -1,0 +1,14 @@
+layout_spectrum: 0.2321895
+typography_spectrum: 1
+color:
+  saturation: 0.6415771
+  brandStrength: 0.7905498
+  lightness: 0.4139785
+  rhythmicContrast: 0.5591398
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: Mattr
